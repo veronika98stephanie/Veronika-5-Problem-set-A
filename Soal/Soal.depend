@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477383592 source:c:\users\user\desktop\intro to program\soal\soal\main.cpp
+	<iostream>
+	<cstdlib>
+	"sodacan.hpp"
+
+1477383184 c:\users\user\desktop\intro to program\soal\soal\sodacan.hpp
+	<iostream>
+
