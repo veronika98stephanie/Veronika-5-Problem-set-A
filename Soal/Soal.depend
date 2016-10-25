@@ -7,3 +7,22 @@
 1477383184 c:\users\user\desktop\intro to program\soal\soal\sodacan.hpp
 	<iostream>
 
+1477403850 source:c:\git hub\veronika-5-problem-set-a\soal\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<cmath>
+	<cctype>
+	<conio.h>
+	<stdio.h>
+	"sodacan.hpp"
+
+1477403795 c:\git hub\veronika-5-problem-set-a\soal\sodacan.hpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<cmath>
+	<cctype>
+
